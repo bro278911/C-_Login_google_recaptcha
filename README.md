@@ -5,7 +5,7 @@
 ![image](https://github.com/bro278911/C-_Login_google_recaptcha/assets/52504229/5cd4d468-d8da-409c-be5b-dcc9b9907fd5)
 ![image](https://github.com/bro278911/C-_Login_google_recaptcha/assets/52504229/50f1daa8-4b44-4413-9d4e-9da7f2a2d46a)
 
-取得登入資訊
+取得登入資訊<br/>
 使用者帳號：Page.User.Identity.Name<br/>
 驗證狀態：Page.User.Identity.IsAuthenticated<br/>
 驗證模式：Page.User.Identity.AuthenticationType<br/>
